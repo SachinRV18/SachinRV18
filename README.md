@@ -16,10 +16,6 @@ Full Stack Developer 💻
 <!-- <h4>✔ Having lived all around the country and meeting a lot of people, I'm able to adapt to any surrounding or circumstance.</h4> -->
   <h4>I love technology, and I want to excel in the field of Full Stack Development. although for now I am just am amateur but aspire to become a Software Engineer in future. I like development and currently working on Logistic Management System with NodeJs, ExpressJs, ReactJs, MongoDB. i also have keen interest in mobile and frontend development which are becoming an integral part of everyone's life these days
   </h4>
- <a href="https://github.com/SachinRV18" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sachinRV18?logo=github&style=for-the-badge&color=2bbc8a&labelColor=1c1917" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinRV18&label=Profile%20views&color=2bbc8a&style=for-the-badge" alt="ankitjha-webdev" /> </p>
 
 ### Socials
 
@@ -39,7 +35,7 @@ src="https://img.shields.io/github/followers/sachinRV18?logo=github&style=for-th
 
 <a href="https://www.github.com/SachinRV18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sachinRV18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.github.com/sachinRV19" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/sachinRV18" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Profile%20Views-123-blue?style=for-the-badge&logo=github" />
 </a>
 
