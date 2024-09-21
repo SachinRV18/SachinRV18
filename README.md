@@ -1,10 +1,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1 align="center">Hi 👋, I'm Sachin RV</h1>
-<h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<h1 align="center">Hi 👋, I'm Sachin RV</h1>
+<h3 align="center">A passionate Full Stack Developer from Bangaluru</h3>
+
 
 - 🌱 I’m currently learning **React Native**
 - 🤝 I’m looking for help with **React.js**
