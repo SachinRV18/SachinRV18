@@ -1,7 +1,9 @@
 Hi 👋 My name is Sachin
 =======================
 
-<center> ![Intro](./download.svg) </center>
+<div style="text-align: center;">
+    <img src="./download.svg" alt="Intro" />
+</div>
 
 
 Full Stack Developer 💻
