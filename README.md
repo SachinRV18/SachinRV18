@@ -11,6 +11,13 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<h3 align="center">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sachrv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Sachin RV" height="40" width="40" /></a>
+<a href="https://www.facebook.com/sachin.rv.792" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Sachin RV" height="40" width="40" /></a>
+<a href="https://www.instagram.com/iamsachinrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
 - 🌱 I’m currently learning **React Native**
 - 🤝 I’m looking for help with **React.js**
 - 👨‍💻 Check out my portfolio at [Portfolio](https://sachinrv-portfolio.netlify.app/)
@@ -18,13 +25,6 @@
 - 📫 Reach me at **sachinrv1999@gmail.com**
 - 📄 Know more about my experience through [Resume](https://drive.google.com/file/d/15A6cX_Jh7tGHWqV2VYbBg_shhwQrf8AX/view?usp=sharing)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sachrv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Sachin RV" height="40" width="40" /></a>
-<a href="https://www.facebook.com/sachin.rv.792" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Sachin RV" height="40" width="40" /></a>
-<a href="https://www.instagram.com/iamsachinrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
