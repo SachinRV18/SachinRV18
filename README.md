@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin RV</h1>
+<h1 align="center">Hi 👋, I'm Sachin R V</h1>
 <h3 align="center">A passionate software developer from India</h3>
 - 🌱 I’m currently learning **React native**
 
