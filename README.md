@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 - 📄 Know more about my experience through [Resume](https://drive.google.com/file/d/15A6cX_Jh7tGHWqV2VYbBg_shhwQrf8AX/view?usp=sharing)
 
 <a href="https://www.github.com/SachinRV18" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ashish-devv?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/sachinRV18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
