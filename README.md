@@ -3,8 +3,8 @@
 </div>
 
 <div id="into" align="center">
-<h1 align="center">Hi 👋, I'm Sachin RV</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangaluru</h3>
+<h1>Hi 👋, I'm Sachin RV</h1>
+<h3>A passionate Full Stack Developer from Bangaluru</h3>
 </div>
 
 <div id="header" align="center">
