@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/sachrv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Sachin RV" height="40" width="40" /></a>
 <a href="https://www.facebook.com/sachin.rv.792" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Sachin RV" height="40" width="40" /></a>
 <a href="https://www.instagram.com/iamsachinrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
