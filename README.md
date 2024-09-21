@@ -32,9 +32,11 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 <a href="https://www.instagram.com/iamsachinrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌍  I'm based in India
 - 🤝 I’m looking for help with **React.js**
 - 👨‍💻 Check out my portfolio at [Portfolio](https://sachinrv-portfolio.netlify.app/)
+- 🧠  I'm learning Web Development with Different Stacks.
+- 🤝  I'm open to collaborating on Interesting Full Stack Projects .
 - 💬 Ask me about **Java, Python, Web Development**
 - 📫 Reach me at **sachinrv1999@gmail.com**
 - 📄 Know more about my experience through [Resume](https://drive.google.com/file/d/15A6cX_Jh7tGHWqV2VYbBg_shhwQrf8AX/view?usp=sharing)
