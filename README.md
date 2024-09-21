@@ -5,7 +5,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,11 +17,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <h1 align="center">Hi 👋, I'm Sachin RV</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangaluru</h3>
@@ -33,7 +29,6 @@
 - 📫 Reach me at **sachinrv1999@gmail.com**
 - 📄 Know more about my experience through [Resume](https://drive.google.com/file/d/15A6cX_Jh7tGHWqV2VYbBg_shhwQrf8AX/view?usp=sharing)
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,8 +36,6 @@
 <a href="https://www.facebook.com/sachin.rv.792" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Sachin RV" height="40" width="40" /></a>
 <a href="https://www.instagram.com/iamsachinrv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Sachin RV" height="40" width="40" /></a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
