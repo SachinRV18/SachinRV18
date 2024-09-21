@@ -23,11 +23,6 @@ src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=f
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjha-webdev" alt="ankitjha-webdev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ankitkumarcse1" target="blank"><img src="https://img.shields.io/twitter/follow/ankitkumarcse1?logo=twitter&style=for-the-badge" alt="ankitkumarcse1" /></a> </p>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sachrv" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Sachin RV" height="40" width="40" /></a>
