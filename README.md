@@ -19,7 +19,7 @@ Full Stack Developer 💻
  <a href="https://github.com/SachinRV18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ankitjha-webdev?logo=github&style=for-the-badge&color=2bbc8a&labelColor=1c1917" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha-webdev&label=Profile%20views&color=2bbc8a&style=for-the-badge" alt="ankitjha-webdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinRV18&label=Profile%20views&color=2bbc8a&style=for-the-badge" alt="ankitjha-webdev" /> </p>
 
 ### Socials
 
