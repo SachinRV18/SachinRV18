@@ -1,4 +1,4 @@
-Hi 👋 My name is Sachin R V
+Hi 👋 My name is Sachin
 =======================
 
 ![Intro](./download.svg)
