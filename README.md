@@ -1,7 +1,7 @@
 Hi 👋 My name is Sachin
 =======================
 
-<center>![Intro](./download.svg) </center>center>
+<center> ![Intro](./download.svg) </center>
 
 
 Full Stack Developer 💻
