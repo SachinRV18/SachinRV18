@@ -6,45 +6,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-LinkedIn: LinkedIn-blue
-Twitter: Twitter-blue
-YouTube: YouTube-red
-When combined with https://img.shields.io/badge/, the following URL is created for LinkedIn:
-
-https://img.shields.io/badge/LinkedIn-blue
-After entering the above URL in the browser, we get the following output:
-
-Linkedin badge with no styling
-Note that we don’t have the icon for the badge added yet. To add it, we’ll use two query parameters in the following format:
-
-logo={your social network icon name}
-logoColor={color of the icon}
-We’ll add both the parameters to the URL as below:
-
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
-We’ll also add a style parameter to the above URL. There are various styling options available, the details of which you can find at Shields.io. We’ll use for-the-badge styling.
-
-The final URL for LinkedIn will be:
-
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-Now, when we hit this URL in the browser, we get the output pictured below.
-
-Linkedin badge with styling
-Similarly, we create URLs for other badges:
-
-https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
-https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white
-We’ll wrap each URL in img tag like so:
-
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
-We’ve wrapped the images in <div> tags to make sure all badges come on a single line. The above code will only display the image generated from the URL. To add hyperlinks for each of the badges, we’ll wrap each image with an <a> tag.
-
-Add the below code inside the <div> tag with id="header" and after the GIF <img> tag. Make sure to change the href attribute to point to your social profiles:
-
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
