@@ -38,8 +38,6 @@ src="https://img.shields.io/github/followers/sachinRV18?logo=github&style=for-th
     <img src="https://img.shields.io/badge/Profile%20Views-1234-blue?style=for-the-badge&logo=github" />
 </a>
 
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 ### Skills
