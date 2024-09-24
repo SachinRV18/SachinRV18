@@ -28,7 +28,7 @@ Full Stack Developer 💻
 - 🧠  I'm learning Web Development with Different Stacks.
 - 🤝  I'm open to collaborating on Interesting Full Stack Projects .
 - 💬 Ask me about **Java, Python, Web Development**
-- 📫 Reach me at **sachinrv1999@gmail.com**
+- 📫 Reach me at **sachinrv1999@gmail.com** .
 - ⚡  Love For Programming .
 - 📄 Know more about my experience through [Resume](https://drive.google.com/file/d/15A6cX_Jh7tGHWqV2VYbBg_shhwQrf8AX/view?usp=sharing)
 
